@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: f4f4f4;
+    background-color:rgb(79, 79, 218)
    }
    header {
     background-color: 4CAF50;
@@ -95,7 +95,7 @@ form button {
  cursor: pointer;
 }
 form button:hover {
-    background-color: 45a049;
+    background-color: rgb(255, 0, 0);
    }
    footer {
     background-color: 333;
